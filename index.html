@@ -9,7 +9,7 @@
         content="مكتب المهندس احمد الخطيب الهندسي في العقبة يقدم خدمات استشارية هندسية متكاملة، تصميم معماري وإنشائي، إشراف هندسي، وإدارة مشاريع بأعلى معايير الجودة.">
     <meta name="keywords"
         content="مكتب هندسي العقبة, مهندس احمد الخطيب, استشارات هندسية, تصميم معماري, إشراف هندسي, إدارة مشاريع العقبة, مقاولات الأردن">
-    <meta name="author" content="مكتب م.احمد الخطيب الهندسي">
+    <meta name="author" content="Hamed Malek Faek Ismail">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="مكتب المهندس احمد الخطيب الهندسي | العقبة">
@@ -17,6 +17,17 @@
         content="خدمات هندسية متكاملة، تصميم، إشراف، وإدارة مشاريع بأعلى معايير الجودة في العقبة.">
     <meta property="og:image"
         content="https://www.aljazeera.net/wp-content/uploads/2020/05/%D8%A7%D9%84%D8%B9%D9%82%D8%A8%D8%A9-%D9%85%D9%8A%D9%86%D8%A9.png?resize=1800%2C1067">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-XXXXXXXXXX');
+    </script>
+
     <!-- Google Fonts: Inter & Cairo -->
     <link
         href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Inter:wght@300;400;600;800&display=swap"
@@ -43,12 +54,12 @@
                 <ul class="nav-list">
                     <li><a href="#home">الرئيسية</a></li>
                     <li><a href="#services">خبراتنا</a></li>
-                    <li><a href="مشاريعنا.html">مشاريعنا</a></li>
-                    <li><a href="تواصل-معنا.html">تواصل معنا</a></li>
+                    <li><a href="projects.html">مشاريعنا</a></li>
+                    <li><a href="contact.html">تواصل معنا</a></li>
                 </ul>
                 <div style="display: flex; gap: 1rem; align-items: center;">
                     <a href="en/index.html" style="font-weight: 600; color: var(--clr-primary);">EN</a>
-                    <a href="تواصل-معنا.html" class="btn btn-primary">اطلب استشارة</a>
+                    <a href="contact.html" class="btn btn-primary">اطلب استشارة</a>
                 </div>
             </nav>
         </div>
@@ -80,7 +91,7 @@
                 <p>خبرة هندسية متميزة في التصميم والإشراف. نقدم حلولًا مبتكرة وخدمات هندسية متكاملة وفق أعلى المعايير.
                 </p>
                 <div class="hero-actions">
-                    <a href="تواصل-معنا.html" class="btn btn-primary btn-large">ابدأ مشروعك</a>
+                    <a href="contact.html" class="btn btn-primary btn-large">ابدأ مشروعك</a>
                     <a href="#services" class="btn btn-outline btn-large">خدماتنا</a>
                 </div>
             </div>
@@ -210,7 +221,7 @@
                 <ul>
                     <li><a href="#home">الرئيسية</a></li>
                     <li><a href="#services">خدماتنا</a></li>
-                    <li><a href="مشاريعنا.html">مشاريعنا</a></li>
+                    <li><a href="projects.html">مشاريعنا</a></li>
                 </ul>
             </div>
             <div class="footer-contact">
@@ -220,8 +231,12 @@
                 <p><i class="fa-solid fa-envelope"></i> ahmadal-khateeb@outlook.com</p>
             </div>
         </div>
-        <div class="footer-bottom container">
+        <div class="footer-bottom container"
+            style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
             <p>&copy; 2026 مكتب م.احمد الخطيب الهندسي. جميع الحقوق محفوظة.</p>
+            <p style="font-size: 0.9rem; opacity: 0.8;">تطوير وتصميم: <a href="https://github.com/hamed-ismail"
+                    target="_blank" rel="noopener noreferrer"
+                    style="color: var(--clr-primary); text-decoration: underline;">حامد إسماعيل</a></p>
         </div>
     </footer>
 
