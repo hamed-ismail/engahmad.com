@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- Arabic Pages (Default) -->
     <url>
-        <loc>https://www.yourdomain.com/</loc>
+        <loc>https://hamed-ismail.github.io/engahmad.com/</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://www.yourdomain.com/index.html</loc>
+        <loc>https://hamed-ismail.github.io/engahmad.com/index.html</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://www.yourdomain.com/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%D9%86%D8%A7.html</loc>
+        <loc>https://hamed-ismail.github.io/engahmad.com/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%D9%86%D8%A7.html</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.yourdomain.com/%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%85%D8%B9%D9%86%D8%A7.html</loc>
+        <loc>https://hamed-ismail.github.io/engahmad.com/%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%85%D8%B9%D9%86%D8%A7.html</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -28,25 +28,25 @@
 
     <!-- English Pages -->
     <url>
-        <loc>https://www.yourdomain.com/en/</loc>
+        <loc>https://hamed-ismail.github.io/engahmad.com/en/</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://www.yourdomain.com/en/index.html</loc>
+        <loc>https://hamed-ismail.github.io/engahmad.com/en/index.html</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://www.yourdomain.com/en/projects.html</loc>
+        <loc>https://hamed-ismail.github.io/engahmad.com/en/projects.html</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.yourdomain.com/en/contact.html</loc>
+        <loc>https://hamed-ismail.github.io/engahmad.com/en/contact.html</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
